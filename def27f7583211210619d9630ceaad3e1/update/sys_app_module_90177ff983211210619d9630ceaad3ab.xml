@@ -18,14 +18,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_snc_event_regist.managers,x_snc_event_regist.requesters</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-30 18:41:50</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>90177ff983211210619d9630ceaad3ab</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>List</sys_name>
         <sys_overrides/>
         <sys_package display_value="Event Registration" source="x_snc_event_regist">def27f7583211210619d9630ceaad3e1</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Event Registration">def27f7583211210619d9630ceaad3e1</sys_scope>
         <sys_update_name>sys_app_module_90177ff983211210619d9630ceaad3ab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-30 23:57:55</sys_updated_on>
+        <sys_updated_on>2024-10-31 13:46:32</sys_updated_on>
         <timeline_page/>
         <title>List</title>
         <uncancelable>false</uncancelable>
